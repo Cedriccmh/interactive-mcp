@@ -9,3 +9,5 @@ localtestscript/
 
 # Log files
 logs/
+.claude/
+.ace-tool/
